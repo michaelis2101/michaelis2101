@@ -25,7 +25,7 @@
 
 ---
 
-### 🎵 Now Playing on Spotify
+### 🎵 Recently Playing on Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313vjgbehuagasivd4gxvzpbxlri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=313vjgbehuagasivd4gxvzpbxlri&redirect=true)
 
